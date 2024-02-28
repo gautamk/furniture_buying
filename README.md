@@ -1,2 +1,2 @@
-# learn_htmx
-Learning htmx 
+# Furniture
+Scripts to help buy furniture
